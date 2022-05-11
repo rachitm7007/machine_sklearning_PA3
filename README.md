@@ -6,4 +6,4 @@ applying K-means clustering and then classification using K-Nearest Neighbours
 
 Major Concepts Include: 
 
-## TF-IDF, UMAP, SVD, Babyplots, K-Means, K-Nearest Neighbours
+ TF-IDF, UMAP, SVD, Babyplots, K-Means, K-Nearest Neighbours
